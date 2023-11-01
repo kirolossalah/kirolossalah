@@ -32,6 +32,47 @@ border-radius: 10px;
 }
 
 
+body {
+
+    background-color: #EEE;
+    margin: 40px auto;
+    position: relative;
+    margin: 20px;
+    background-image: url(https://img.freepik.com/premium-photo/photo-person-working-computer-internet-connection-virtual-reality-concept-cartoon-generativ_646510-4705.jpg);
+
+
+}
+
+
+
+.site .widget {
+    box-shadow: 0 6px 18px 0 rgba(9,32,76,.035);
+    background: #fff;
+    clear: both;
+    border-radius: 3px;
+    padding: 20px;
+    overflow: hidden;
+    margin: 0 0 15px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+.widget {
+    overflow: hidden;
+}
+
+  .widget.Label .cloud-label-widget-content span.label-size a.label-name {
+    padding: 10px 10px;
+    display: block;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+    background: #b6c4d5;
+    margin: 10px;
+font-family: 'Cairo', sans-serif;
+
     
 
 .img {
