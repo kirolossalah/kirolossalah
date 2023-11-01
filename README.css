@@ -16,23 +16,8 @@ font-family: 'Playpen Sans', cursive;
 }round: #b6c4d5;
 }
     
-@media only screen and (min-width: 768px) {
-img {
-border-radius: 10px;
-    box-shadow: -11px -8px 5px black;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    display: block;
-    margin: auto;
-    padding: 5px;
-    height: 500px;
-    width: auto;
-}
-}
-}
-
-
-body {
+.img {border-radius: 20px;}
+.body {
 
     background-color: #EEE;
     margin: 40px auto;
