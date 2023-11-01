@@ -18,5 +18,14 @@ font-family: 'Playpen Sans', cursive;
     
     
     
-    
-    
+
+.img {
+border-radius: 10px;
+    box-shadow: -11px -8px 5px black;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: block;
+    margin: auto;
+    padding: 5px;
+
+}
