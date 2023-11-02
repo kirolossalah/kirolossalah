@@ -1,7 +1,7 @@
-Sub-address {
-font-family: 'Playpen Sans', cursive;
-  border-color: #040404;
-  border-width: 5px;
+.Sub-address {
+    font-family: 'Playpen Sans', cursive;
+    border-color: #ff0000;
+    border-width: 5px;
     border-style: outset;
     text-align: center;
     padding: 10px 10px;
@@ -11,6 +11,5 @@ font-family: 'Playpen Sans', cursive;
     text-align: center;
     font-size: 18px;
     font-weight: bold;
-    color: #ffffff;
-    background: linear-gradient(to right, #f4424c, #004bf5);
+    color: #4b3838;
 }
