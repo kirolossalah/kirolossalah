@@ -1,0 +1,15 @@
+.Sub-address {
+    font-family: 'Playpen Sans', cursive;
+    border-color: #ff0000;
+    border-width: 5px;
+    border-style: outset;
+    text-align: center;
+    padding: 10px 10px;
+    display: block;
+    border-radius: 6px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #4b3838;
+}
