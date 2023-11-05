@@ -11,3 +11,26 @@ background-color: #f5f5f5;
 a {
     text-decoration: none;
 }
+.course-box {
+    width: auto;
+}
+
+.course-box {
+    display: flex;
+    /* display: -webkit-box; */
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+span.لا.يوجد.شئ.لعرضة {
+    font-size: medium;
+}
+
+a.لا.يوجد.شئ.لعرضة {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.courses-holder {
+    margin-top: 50px;
+}
