@@ -2,8 +2,9 @@ body {
 font-family: "Cairo", sans-serif;
 background-color: #f5f5f5;
 }
+
 .course-box {
-    border-radius:20 em;
     border-top-style: ridge;
     border-top-color: aquamarine;
+    border-radius: 20px;
 }
