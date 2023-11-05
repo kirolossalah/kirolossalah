@@ -8,3 +8,6 @@ background-color: #f5f5f5;
     border-top-color: aquamarine;
     border-radius: 20px;
 }
+a {
+    text-decoration: none;
+}
