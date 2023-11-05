@@ -1,0 +1,18 @@
+.courses-holder {
+    display: inline;
+}
+
+.course-box {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.details {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.details {}
+
+a.link {font-size: 25px;}
