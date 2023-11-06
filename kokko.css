@@ -32,14 +32,3 @@ border-radius: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
-@media screen and (min-width: 480px) {
-.courses-holder {display: inline;}
-    }
-
-@media screen and (min-width: 480px) {
-.course-box { display: flex;
-    flex-direction: row-reverse;
-    align-items: center;
-    justify-content: space-between;
-}}
-    }
