@@ -22,3 +22,14 @@
 .details {}
 
 a.link {font-size: 25px;}
+@media screen and (min-width: 480px) {
+.courses-holder {display: inline;}
+    }
+
+@media screen and (min-width: 480px) {
+.course-box { display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+}}
+    }
