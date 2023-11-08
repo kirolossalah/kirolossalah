@@ -32,3 +32,9 @@ border-radius: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.info {
+    background: antiquewhite;
+    border-radius: 20px;
+    padding-right: 7px;
+    padding-left: 7px;
+}
