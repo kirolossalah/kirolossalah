@@ -1,0 +1,32 @@
+
+@media only screen and (max-width: 600px) {
+.info {
+
+    border-radius: 20px;
+    display: flex;
+    padding-right: 7px;
+    padding-left: 7px;
+    flex-direction: column;
+    align-content: center;
+    align-items: center; 
+}
+ .course-box .link {
+    font-weight: bold;
+    color: black;
+    width: fit-content;
+    border-radius: 20px;
+    display: block;
+    font-size: 22px;
+    transition: 0.3s;
+}
+ h4.small {
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #0000009c;
+    margin-left: 0px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+}
+
