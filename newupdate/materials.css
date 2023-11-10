@@ -1,26 +1,20 @@
-.course-box {
-    display: block;
-}
 
-.keko {
-    display: flex;
-    /* margin: 20px auto; */
-    flex-wrap: wrap;
-    justify-items: start;
-    justify-content: space-around;
+  /*
+  Last Update At 23 Oct 2023 => 4350 Lines
+*/
+:root {
+  --primary-color: #0075ff;
+  --primary-color-alt: #0366da;
+  --green-color: #009688;
+  --danger-color: darkred;
+  --border-color: #ebebeb;
+  --half-white: #f8f6f6;
+  --second-color: #009688;
 }
-
-.course-box {
-    width: 270px;
+body {
+  /* font-family: "Cairo", sans-serif; */
+  /* background-color: white; */
 }
-
-.courses-holder {
-}
-
-.courses-holder {
-    margin: 20px auto;
-}
-
 ul:not(.classic),
 ol:not(.classic) {
   list-style: none;
@@ -1695,6 +1689,7 @@ textarea:focus {
   font-weight: bold;
   color: black;
   border-bottom-right-radius: 20px;
+  direction: ltr;
   width: fit-content;
   display: block;
   font-size: 22px;
@@ -4099,7 +4094,7 @@ border-radius: 20px;
 }
 .courses-holder {
     /* display: inline; */
-    display: grid;
+    display: block;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 15px;
     margin-top: 15px;
